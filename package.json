@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-15",
+  "version": "1.0.0",
+  "description": "Realización de ejercicio Persistencia de datos con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "Jimmy Bustillo",
+  "license": "ISC"
+}
